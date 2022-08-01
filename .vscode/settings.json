@@ -5,5 +5,10 @@
     "files.trimTrailingWhitespace": true,
     "files.associations": {
         "**/toc.json": "jsonc"
-    }
+    },
+    "github.codespaces.defaultExtensions": [
+    
+        "GitHub.codespaces",
+        "GitHub.vscode-pull-request-github"
+    ]
 }
